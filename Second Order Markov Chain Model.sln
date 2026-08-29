@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second Order Markov Chain Model", "Second Order Markov Chain Model.csproj", "{90980796-5122-4738-9B93-A39F210E8749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90980796-5122-4738-9B93-A39F210E8749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90980796-5122-4738-9B93-A39F210E8749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90980796-5122-4738-9B93-A39F210E8749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90980796-5122-4738-9B93-A39F210E8749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84E7437D-16DB-42E6-BF5E-312DEF76CD1C}
+	EndGlobalSection
+EndGlobal
