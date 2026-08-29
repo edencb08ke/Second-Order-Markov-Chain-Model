@@ -23,6 +23,7 @@ This will act as a progress report of what changes and improvements I make to th
   - 29/08/2026:
     - Edited ExportToMidi() in MidiProcessor.cs to explicitly cast integer pitch values to seven bits to comply with standard MIDI pitch range
     - Updated class Program.cs to complete void Main(), which sets up end-to-end pipeline: batch dataset loading, model training, probabilistic generation from seed, MIDI file export.
+    - Massively updated project writeup, completed sections for most classes and execution flow through them with explanations regarding my processes
 
 ## FUTURE UPDATES / TO BE ADDED
 At the start of the project, I wanted to be able to compare how a 1st and 2nd order MCMs' compositions would differ, but didn't commit to doing it as I was unsure of the time and effort this 2nd order model will take. After having (mostly) completed it (aside from specific debugging relating to the scope of NoteTuple), I think that I will opt to add a user option between 1st and 2nd order generation. 3rd order generation may also be possible but I feel that it would diverge too much from my original project topic question, which is more focused on how convincing a MCM composed piece could be as opposed to how this can scale with different orders of MCM, however I may go back on this decision and implement a 3rd Order MCM.
